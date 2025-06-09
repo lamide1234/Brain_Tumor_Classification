@@ -56,7 +56,8 @@ Classification Report with precision, recall, and F1-score
 Accuracy and loss plots for both training and validation
 
 
-Future Work
+  Future Work
+
 Apply transfer learning using pretrained models (e.g., VGG, ResNet)
 
 Improve model robustness with more diverse datasets
