@@ -15,7 +15,7 @@ type_of_tumor/: For multi-class classification.
 
 You can access the dataset via this Google Drive link:
 
-🔗 Google Drive – 
+🔗 [Google Drive – Brain Tumor images](https://drive.google.com/drive/folders/12hXYE9Q9Cth6C_l6XshyhWUAAAhEO4px?usp=drive_link)
 
 
 
